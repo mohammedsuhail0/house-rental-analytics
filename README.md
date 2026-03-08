@@ -37,6 +37,16 @@ It combines data cleaning, exploratory analysis, machine learning, and dashboard
 * Tenant type influences pricing patterns
 * Area vs rent relationship contains clustering and outliers
 
+## 🤖 Model Performance
+
+A machine learning model was trained to estimate rental prices based on housing features.
+
+* Model used: Random Forest Regressor
+* Focus: rental price prediction using structured housing data
+
+This step helped connect exploratory insights with predictive analysis.
+
+
 ## 🚀 Project Goal
 
 The aim was to move from raw housing data to useful visual insights and predictive understanding through a complete analytics workflow.
