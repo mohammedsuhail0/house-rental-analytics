@@ -21,6 +21,18 @@ It combines data cleaning, exploratory analysis, machine learning, and dashboard
 * `housing_rental_analytics.pbix`
   Power BI dashboard built manually for visual analysis
 
+  ## 📦 Dataset
+
+The dataset contains Hyderabad rental housing listings with important features such as:
+
+* BHK
+* Rent
+* Area
+* Furnishing Status
+* Tenant Type
+* Locality
+
+
 ## 🛠 Tools Used
 
 * Python 🐍
